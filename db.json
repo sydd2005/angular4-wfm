@@ -5,6 +5,30 @@
       "email": "wfm@mail.ru",
       "password": "12345678",
       "name": "Администратор"
+    },
+    {
+      "email": "sydd@yandex.ru",
+      "password": "gfhjkm",
+      "name": "sydd",
+      "id": 2
+    },
+    {
+      "email": "sydd@mail.ru",
+      "password": "gfhjkm",
+      "name": "syddM",
+      "id": 3
+    },
+    {
+      "email": "email@mail.ru",
+      "password": "gfhjkm",
+      "name": "sydd",
+      "id": 4
+    },
+    {
+      "email": "sydd2005@gmail.com",
+      "password": "gfhjkm",
+      "name": "sydd2005",
+      "id": 5
     }
   ],
   "bill": {
