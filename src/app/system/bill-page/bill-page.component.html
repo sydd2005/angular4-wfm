@@ -14,6 +14,6 @@
   </div>
   <div class="row" *ngIf="isLoaded">
     <wfm-bill-card [bill]="bill" [currency]="currency"></wfm-bill-card>
-    <wfm-currency-card></wfm-currency-card>
+    <wfm-currency-card [currency]="currency"></wfm-currency-card>
   </div>
 </section>
