@@ -50,6 +50,21 @@
       "id": 3,
       "name": "Машина",
       "capacity": 7000
+    },
+    {
+      "name": "newCat2",
+      "capacity": 34987,
+      "id": 4
+    },
+    {
+      "name": "newCat3",
+      "capacity": 2345,
+      "id": 5
+    },
+    {
+      "name": "another category",
+      "capacity": 348752934,
+      "id": 6
     }
   ],
   "events": [
