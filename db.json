@@ -52,8 +52,8 @@
       "capacity": 7000
     },
     {
-      "name": "newCat2",
-      "capacity": 34987,
+      "name": "newCat21",
+      "capacity": 349874,
       "id": 4
     },
     {
@@ -65,6 +65,11 @@
       "name": "another category",
       "capacity": 348752934,
       "id": 6
+    },
+    {
+      "name": "Еще одна категория",
+      "capacity": 200000,
+      "id": 7
     }
   ],
   "events": [
